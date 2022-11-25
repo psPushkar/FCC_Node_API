@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Pushkar Singh jxbscb",
+	"author" : "Pushkar Singh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
